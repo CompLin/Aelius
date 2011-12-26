@@ -1,0 +1,11 @@
+O/D excerto/N abaixo/ADV contém/VB-P os/D-P dois/NUM primeiros/ADJ-P parágrafos/N-P do/P+D romance/N "/QT Luzia/NPR -/+ Homem/NPR "/QT (/( Rio/NPR de/P Janeiro/NPR ,/, 1903/NUM )/( ,/, de/P Domingos/NPR Olímpio/NPR ,/, nascido/VB-AN em/P Sobral/NPR ,/, Ceará/NPR ,/, em/P 18/NUM de/P setembro/NPR de/P 1850/NUM e/CONJ falecido/VB-AN no/P+D Rio/NPR de/P Janeiro/NPR em/P 6/NUM de/P outubro/NPR de/P 1906/NUM ./. 
+O/D texto/N ,/, extraído/VB-AN do/P+D site/N Wikisource/NPR ,/, foi/SR-D revisado/VB-AN por/P Leonel/NPR F./NPR de/P Alencar/NPR ./. 
+
+
+O/D morro/N do/P+D Curral/NPR do/P+D Açougue/NPR emergia/VB-D em/P suave/ADJ-G declive/N da/P+D-F campina/N ondulada/VB-AN-F ./.
+Escorchado/VB-AN ,/, indigente/ADJ-G de/P arvoredo/N ,/, o/D cômoro/N enegrecido/VB-AN pelo/P+D sangue/N de/P reses/N-P sem/P conto/N ,/, deixara/VB-RA de/P ser/SR o/D sítio/N sinistro/ADJ do/P+D matadouro/N e/CONJ a/D-F pousada/N predileta/ADJ-F de/P bandos/N-P de/P urubutingas/N-P e/CONJ camirangas/N-P vorazes/ADJ-G-P ./.
+
+
+Bateram/VB-D -/+ se/SE os/D-P vastos/ADJ-P currais/N-P ,/, de/P grossos/ADJ-P esteios/N-P de/P aroeira/N ,/, fincados/VB-AN-P a/P pique/N ,/, rijos/ADJ-P como/CONJS barras/N-P de/P ferro/N ,/, currais/N-P seculares/ADJ-G-P ,/, obra/N ciclópica/ADJ-F ,/, da/P+D-F qual/WPRO restava/VB-D apenas/ADV ,/, como/CONJS lúgubre/ADJ-G vestígio/N ,/, o/D moirão/N ligeiramente/ADV inclinado/VB-AN ,/, adelgaçado/VB-AN no/P+D centro/N ,/, polido/VB-AN pelo/P+D contínuo/ADJ atrito/N das/P+D-F-P cordas/N-P de/P laçar/VB as/D-F-P vítimas/N-P ,/, que/WPRO a/P ele/PRO eram/SR-D arrastadas/VB-AN-F-P aos/P+D-P empuxões/N-P ,/, bufando/VB-G ,/, resistindo/VB-G ,/, ou/CONJ entregando/VB-G ,/, resignadas/VB-AN-F-P e/CONJ mansas/ADJ-F-P ,/, o/D pescoço/N à/P+D-F faca/N do/P+D magarefe/N ./.
+Ali/ADV ,/, no/P+D sítio/N de/P morte/N ,/, fervilhavam/VB-D ,/, então/ADV ,/, em/P ruidosa/ADJ-F diligência/N ,/, legiões/N-P de/P operários/N-P construindo/VB-G a/D-F penitenciária/N de/P Sobral/NPR ./.
+

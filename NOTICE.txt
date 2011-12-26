@@ -1,0 +1,7 @@
+Aelius Brazilian Portuguese POS-Tagger and Corpus Annotation Tool http://sourceforge.net/projects/aelius/
+
+Copyright (C) 2010-2011 Leonel F. de Alencar
+
+Alencar, Leonel Figueiredo de. Aelius: uma ferramenta para anotação automática de corpora usando o NLTK. ELC 2010, The 9th Brazilian Corpus Linguistics Meeting, Porto Alegre, Brazil, Rio Grande do Sul Catholic University (PUCRS), October 8 and 9, 2010. 
+http://corpuslg.org/gelc/elc2010.php?paged=2
+http://corpuslg.org/gelc/media/blogs/elc2010/slides/Figueiredo_de_Alencar.pdf
